@@ -22,7 +22,7 @@ print("Hash MD5 de cadena de 8 bits:", hash_8_bits_md5)
 print("Hash SHA-256 de cadena de 8 bits:", hash_8_bits_sha256)
 
 # Ejemplo de cadena de texto de 1024 bits
-cadena_1024_bits = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit, purus quis feugiat consectetur, urna nunc convallis sem, a tincidunt quam orci ac mauris."
+cadena_1024_bits = "•	An exclusion could be that is all out of the environment SAP Access control, which means that if you are not able to do an specific task because of an access, we can help"
 hash_1024_bits_md5, hash_1024_bits_sha256 = calcular_hash_cadena(cadena_1024_bits)
 print("Hash MD5 de cadena de 1024 bits:", hash_1024_bits_md5)
 print("Hash SHA-256 de cadena de 1024 bits:", hash_1024_bits_sha256)
